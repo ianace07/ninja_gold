@@ -1,0 +1,31 @@
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
+.box{
+	display: inline-block;
+	width: 210px;
+	border: 1px solid #ccc;
+	margin: 5px;
+	text-align: center;
+	font-size: larger;
+	font-weight: bold;
+	box-shadow: 2px 2px 2px 2px black;
+}
+p, span{
+	display: inline-block;
+	/* vertical-align: top; */
+}
+input{
+	margin: 5px;
+}
+.borderLine{
+	border: 1px solid black;
+	width: 850px;
+	height: 250px;
+}
+ul li{
+	list-style-type: none;
+}
